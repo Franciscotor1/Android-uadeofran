@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PrimeraPractica</string>
+    <string name="nombre">Captura tu nombre</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="pulsar">Pulsar</string>
+    <string name="cerrar">Cerrar</string>
+    <string name="alumno">Francisco Javier Torres Acosta</string>
+    <string name="matricula">22050586</string>
+    <string name="materia">Programación de apps Moviles</string>
+
+    <string name="altura">Captura la altura (ej: 1.65)</string>
+    <string name="peso">Captura el peso </string>
+    <string name="msj">El resultado aparece aqui</string>
+
+    <string-array name="array_conversiones">
+        <item>Pesos Mexicanos - Dolares Americanos</item>
+        <item>Pesos Mexicanos - Dolares Canadienses</item>
+        <item>Pesos Mexicanos - Euros</item>
+        <item>Dolares Americanos - Pesos Mexicanos</item>
+        <item>Dolares Canadienses- Pesos Mexicanos - </item>
+        <item>Euros - Pesos Mexicanos</item>
+    </string-array>
+    <string name="dolar">19.75</string>
+    <string name="dolarc">14.75</string>
+    <string name="euro">22.02</string>
+
+</resources>
